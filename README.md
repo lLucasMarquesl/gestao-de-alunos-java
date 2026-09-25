@@ -209,9 +209,9 @@ Algumas funcionalidades podem ser adicionadas futuramente, como:
 ## 👨‍💻 Autores
 
 Nome e RA dos alunos envolvidos:
-Marcos Vinicius Scavareli Binatti 26002011
-Lucas Miguel Marques Ferreira 26002065
-Mateus Nascimento Silva 26001755
+Marcos Vinicius Scavareli Binatti RA: 26002011
+Lucas Miguel Marques Ferreira RA: 26002065
+Mateus Nascimento Silva RA: 26001755
 Vinicius Cibuin RA: 26001804
 
 Projeto desenvolvido para estudos e prática de **Java e Programação Orientada a Objetos**.
